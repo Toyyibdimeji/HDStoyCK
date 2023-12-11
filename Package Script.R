@@ -20,8 +20,8 @@ usethis::use_gpl3_license()
 # To install Git in your system https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 # The next 2 lines is only needed the first time you setup git in a computer to
 # register your name and email
-system('git config --global user.name "Chris Kypridemos"') # Use your name instead of Chris Kypridemos
-system('git config --global user.email "christodoulosk@gmail.com"') # Use your email instead of mine. Need to be the same as in GitHub
+system('git config --global user.name "Toyyib Abdulkareem"') # Use your name instead of Chris Kypridemos
+system('git config --global user.email "toyyibdimeji@yahoo.com"') # Use your email instead of mine. Need to be the same as in GitHub
 
 system("git config --global user.name") # Test that it worked
 system("git config --global user.email") # Test that it worked
